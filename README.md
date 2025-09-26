@@ -31,7 +31,7 @@ This project is made from vide coding and differnt llm models that help get my i
 ## 🖼️ Screenshots  
 
 ### Light Version  
-![Card Preview](./assets/cardback _image.png)  
+![Card Preview](./assets/cardback_image.png)  
 
 ### Dark Version  
 *(Add a screenshot of the dark version here, e.g., `./dark-version.png`)*  
