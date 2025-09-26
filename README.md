@@ -6,6 +6,7 @@
 
 This project is a simple **interactive credit/debit card form** built with **HTML, CSS, and JavaScript**.  
 It provides a real-time preview of card details (number, holder name, expiry date, and CVV) as the user types them into the form.  
+This project is made from vide coding and differnt llm models that help get my idea to life.
 
 ---
 
