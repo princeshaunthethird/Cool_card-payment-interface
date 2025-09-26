@@ -28,7 +28,29 @@ This project is made from vide coding and differnt llm models that help get my i
 
 ---
 
-## 🚀 Getting Started
+## 🖼️ Screenshots  
+
+### Light Version  
+![Card Preview](./cardback.png)  
+
+### Dark Version  
+*(Add a screenshot of the dark version here, e.g., `./dark-version.png`)*  
+
+---
+
+## ⚙️ Customization  
+
+- Replace `logo-placeholder.png` or hosted URLs with your own **card logos**.  
+- Update `cardback.png` or background images for a different design.  
+- Modify `handleSubmit()` in JavaScript to integrate with a **real payment gateway**.  
+
+---
+
+## 📌 Notes  
+
+- This project is only a **UI mockup**.  
+- It does **not** process real payments.  
+- For production use, integrate with secure payment APIs such as **Stripe, Razorpay, or PayPal**.  
 
 
 
