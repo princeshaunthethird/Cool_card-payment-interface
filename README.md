@@ -28,11 +28,11 @@ This project is made from vide coding and differnt llm models that help get my i
 
 ---
 
-## 🖼️ Screenshots  
+## 🖼️ Videos
 
 ### Light Version  
 
-![Card Preview](https://github.com/princeshaunthethird/Cool_card-payment-interface/raw/main/assets/cardback_image.png)  
+![Card Preview](assets/demo.gif)  
 
 ### Dark Version  
 *(Add a screenshot of the dark version here, e.g., `./dark-version.png`)*  
