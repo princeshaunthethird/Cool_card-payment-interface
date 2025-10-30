@@ -34,9 +34,7 @@ This project is made from vide coding and differnt llm models that help get my i
 ### Light Version  
 
 ![Card Preview](assets/demo.gif)  
-
-### Dark Version  
-*(Add a screenshot of the dark version here, e.g., `./dark-version.png`)*  
+ 
 
 ---
 
